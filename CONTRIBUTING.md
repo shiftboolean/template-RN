@@ -1,10 +1,10 @@
-# Contributing to RidingMotoMobile
+# Contributing to <Project Name>
 
-First off, thank you for considering contributing to RidingMotoMobile! 🙌 It's people like you that make RidingMotoMobile such a great project.
+First off, thank you for considering contributing to <Project Name>! 🙌 It's people like you that make <Project Name> such a great project.
 
 Here are some ways you can contribute:
 
-- [Contributing to RidingMotoMobile](#contributing-to-ridingmotomobile)
+- [Contributing to <Project Name>](#contributing-to-<Project Name>)
   - [Getting Started](#getting-started)
   - [Reporting Bugs](#reporting-bugs)
   - [Suggesting Enhancements](#suggesting-enhancements)
@@ -12,9 +12,9 @@ Here are some ways you can contribute:
 
 ## Getting Started
 
-RidingMotoMobile is using JIRA for issue tracking. Visit [our JIRA](https://shiftboolean.atlassian.net/jira/software/c/projects/RM/boards/46/backlog?view=detail) to find existing issues or create a new one.
+<Project Name> is using JIRA for issue tracking. Visit [our JIRA](JIRA URL) to find existing issues or create a new one.
 
-Our [Confluence](https://shiftboolean.atlassian.net/wiki/home) is used for project documentation.
+Our [Confluence](https://shiftboolean..com) is used for project documentation.
 
 For internal communication, we're using Slack.
 
@@ -24,7 +24,7 @@ We're using JIRA for bug tracking. Before reporting a bug, please check our JIRA
 
 ## Suggesting Enhancements
 
-We welcome any ideas for making RidingMotoMobile better! Feel free to create new issues in our JIRA for any feature requests or enhancements you think of.
+We welcome any ideas for making <Project Name> better! Feel free to create new issues in our JIRA for any feature requests or enhancements you think of.
 
 ## Code Contribution
 
@@ -38,4 +38,4 @@ Here are the steps for contributing code:
 
 Your pull request will be reviewed and merged if it passes the review.
 
-We thank you for your contribution and making RidingMotoMobile a better project!
+We thank you for your contribution and making <Project Name> a better project!
