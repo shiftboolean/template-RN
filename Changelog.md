@@ -1,4 +1,4 @@
-# Changelog for RidingMotoMobile 🎈
+# Changelog for Project Name 🎈
 
 All notable changes to this project will be documented in this file.
 
