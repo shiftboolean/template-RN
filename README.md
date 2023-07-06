@@ -5,6 +5,16 @@
 ![Test Cases](https://img.shields.io/badge/Tests-100%25-brightgreen?style=for-the-badge)
 [![TeamCity](https://img.shields.io/teamcity/https/teamcity.shiftboolean.com/e/GtcrmStudentDasboard_Build.svg?style=for-the-badge&logo=teamcity)](https://teamcity.shiftboolean.com/viewType.html?buildTypeId=GtcrmStudentDasboard_Build)
 
+## Todo
+
+- [ ] Update Project Name in README.md
+- [ ] Update Project Name in CONTRIBUTING.md
+- [ ] Update Project Name in CHANGELOG.md
+- [ ] Update Project Name in VERSION.md
+- [ ] Change MIT License to Internal Use License (IUL) and update in README.md
+- [ ] Update Readme Badge URL
+- [ ] Delete the Todo section
+
 ## Introduction 📚
 
 <Project Description>
