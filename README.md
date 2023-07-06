@@ -101,4 +101,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Website 🌐
 
-For more information, visit [RidingMotoMobile.com](www.ridingmotomobile.com)
+For more information, visit [shiftboolean.com](www.shiftboolean.com)
