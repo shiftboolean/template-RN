@@ -1,4 +1,4 @@
-# RidingMotoMobile 🎈
+# Project Name 🎈
 
 ![Current Release Version](https://img.shields.io/badge/Release-0.1.0-brightgreen?style=for-the-badge)
 ![Code Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen?style=for-the-badge)
@@ -7,7 +7,7 @@
 
 ## Introduction 📚
 
-RidingMotoMobile is a mobile application for motorcycle enthusiasts. Built with React Native, it includes features such as ride planning, community interaction, and more. This project follows the principles of modular monolith architecture.
+<Project Description>
 
 ## Deployment Details 🚀
 
@@ -31,7 +31,7 @@ Ensure you have Node.js, npm, and React Native installed on your system.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/shiftboolean/RidingMotoMobile.git`
+1. Clone the repository: `git clone https://github.com/shiftboolean/<reponame>.git`
 2. Install the dependencies: `npm install`
 3. Start the Metro Bundler: `npm start`
 4. Run the app on Android: `npm run android` or on iOS: `npm run ios`
