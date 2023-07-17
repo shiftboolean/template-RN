@@ -17,7 +17,7 @@
     "react-native": "0.72.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.8",
+    "@babel/core": "^7.22.9",
     "@babel/eslint-parser": "^7.22.6",
     "@babel/preset-env": "^7.20.0",
     "@babel/preset-typescript": "^7.22.5",
